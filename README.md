@@ -11,14 +11,16 @@ The user must download and install the following:
 
 To run the application, follow these steps:
 
-1. Open a terminal.
-2. Use the `ls` command to locate the project directory.
-3. Navigate to the application folder:
+1. Open XAMPP Control Panel.
+2. Click the Start button next to Apache and MySQL.
+3. Open a terminal.
+4. Use the `ls` command to locate the project directory.
+5. Navigate to the application folder:
    ```bash
    cd library-app
-4. Start the Laravel development server:
+6. Start the Laravel development server:
    ```bash
    php artisan serve
-6. Open a web browser and go to:
+7. Open a web browser and go to:
    ```bash
    http://127.0.0.1:8000
